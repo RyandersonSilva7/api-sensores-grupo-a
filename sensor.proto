@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package agro;
+
+message LeituraSensor {
+  string sensor_id = 1;
+  string localizacao = 2;
+  string timestamp = 3;
+  optional double temperatura = 4;
+  string unidade_temp = 5;
+  optional double umidade = 6;
+  optional int32 luminosidade = 7;
+  optional double precipitacao = 8;
+}
+
+message ListaLeituras {
+  repeated LeituraSensor leituras = 1;
+}

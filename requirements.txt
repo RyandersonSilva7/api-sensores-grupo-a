@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pyyaml
+dicttoxml
+protobuf>=7.35.1
+grpcio-tools
+requests
