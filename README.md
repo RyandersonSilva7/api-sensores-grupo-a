@@ -396,4 +396,8 @@ Você pode reproduzir as medições com `python cliente_teste.py`.
 ---
 
 ## Equipe
-Grupo A — preencha aqui os nomes dos integrantes.
+Grupo A
+Lucas Souza
+Gabriel de Sousa
+Raimundo Nonato Costa 
+Ryanderson Silva Fernandes da Costa 
