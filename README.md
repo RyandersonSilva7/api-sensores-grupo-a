@@ -397,7 +397,7 @@ Você pode reproduzir as medições com `python cliente_teste.py`.
 
 ## Equipe
 Grupo A
-Lucas Souza
-Gabriel de Sousa
-Raimundo Nonato Costa 
-Ryanderson Silva Fernandes da Costa 
+Lucas Souza,
+Gabriel de Sousa,
+Raimundo Nonato Costa, 
+Ryanderson Silva Fernandes da Costa.
